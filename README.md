@@ -51,7 +51,7 @@ Get Vericode up and running in minutes with our automated setup scripts.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Prathmesh9304/vericode.git
+git clone https://github.com/OmPimple26/VeriCode---AI-Powered-Code-Quality-Analyzer-and-Refactoring-Suggestion-Tool.git
 cd vericode
 ```
 
@@ -125,6 +125,6 @@ vericode/
 
 <div align="center">
 
-Made with ❤️ by [Prathmesh](https://github.com/Prathmesh9304)
+Made with ❤️ by [Om](https://github.com/OmPimple26)
 
 </div>
